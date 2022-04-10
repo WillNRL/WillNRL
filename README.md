@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Infraestrutura Agil**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WillNRL/02-vagrant https://github.com/WillNRL/02-vagrant https://github.com/WillNRL/data-processing-py](https://github.com/WillNRL/02-vagrant https://github.com/WillNRL/02-vagrant https://github.com/WillNRL/data-processing-py)
-
 - 💬 Ask me about **Vagrant, Rundeck, Git, SSH, Linux, Docker, Ansible, and OCI.**
 
 <h3 align="left">Connect with me:</h3>
